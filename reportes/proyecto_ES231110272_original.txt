@@ -1,0 +1,48 @@
+========================================
+  REPORTE DE AVANCE DE PROYECTO
+  DGIT - Ciudad Futura
+========================================
+
+Nombre del Proyecto: Manual de Usuario
+Responsable: Diego Resendiz
+Fecha de registro: 2025-11-09T23:08:50.298497600
+
+Descripción del Avance Semanal:
+Se realiza el manual del usuario. Falta agregar los diagramas.
+
+========================================
+Matrícula: ES231110272
+========================================
+
+========================================
+  REPORTE DE AVANCE DE PROYECTO
+  DGIT - Ciudad Futura
+========================================
+
+Nombre del Proyecto: Diseño de la App móvil
+Responsable: Santiago Resendiz
+Fecha de registro: 2025-11-09T23:14:09.362317800
+
+Descripción del Avance Semanal:
+Se da un avance del 50% en el diseño frontend de la app.
+
+========================================
+Matrícula: ES231110272
+========================================
+
+========================================
+  REPORTE DE AVANCE DE PROYECTO
+  DGIT - Ciudad Futura
+========================================
+
+Nombre del Proyecto: Servicio en la nube AWS
+Responsable: Ailyn Acevedo
+Fecha de registro: 2025-11-09T23:20:00.984030
+
+Descripción del Avance Semanal:
+Se esta generando la base de datos en la nube.
+
+========================================
+Matrícula: ES231110272
+========================================
+

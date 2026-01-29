@@ -1,0 +1,16 @@
+========================================
+  reporte de avance de proyecto
+  dgit - ciudad futura
+========================================
+
+nombre del proyecto: manual de usuario
+responsable: diego resendiz
+fecha de registro: 2025-11-09t23:08:50.298497600
+
+descripción del avance semanal:
+se realiza el manual del usuario. falta agregar los diagramas.
+
+========================================
+matrícula: es231110272
+========================================
+
