@@ -21,7 +21,7 @@ Incluye funcionalidades como validaciones, confirmaciones y manejo de errores. E
 - Procesamiento de archivos usando streams (map, reduce, etc.).
 - Barra de progreso en la pantalla de inicio con simulación de carga.
 - Validaciones y mensajes de error/confirmación con JOptionPane.
-- Soporte para matrícula de estudiante (ES231110272) en reportes.
+- Soporte para matrícula de estudiante (ES254879) en reportes.
 - Creación automática de carpetas para reportes y documentos.
 
 ## Tecnologías Utilizadas
